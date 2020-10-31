@@ -1,10 +1,10 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "remote-address-override",
+  "title": "Remote Address Override",
+  "description": "Allows for override of `game.data.addresses.remote` for cases where FoundryVTT is behind a proxy or other related cases",
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
+  "compatibleCoreVersion": "0.7.5",
   "author": "Cody Swendrowski <cody@swendrowski.us>",
   "dependencies": [
 
@@ -13,7 +13,6 @@
     "/scripts/module.js"
   ],
   "scripts": [
-    "/scripts/lib/lib.js"
   ],
   "styles": [
     "/styles/module.css"
@@ -26,6 +25,6 @@
     }
   ],
   "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "manifest": "https://github.com/cswendrowski/FoundryVTT-Remote-Address-Override/releases/download/latest/module.json",
+  "download": "https://github.com/cswendrowski/FoundryVTT-Remote-Address-Override/releases/download/0.0.1/module.zip"
 }

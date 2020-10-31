@@ -1,3 +1,4 @@
 {
-    "MODULE.hello": "hello"
+    "RAO.SETTINGS.OverrideName": "Override for Remote Address",
+    "RAO.SETTINGS.OverrideHint": "Set this when Foundry isn't detecting your external address properly, such as when behind a proxy."
 }
